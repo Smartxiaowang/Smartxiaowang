@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    🧳 Having over one years of system-level programming experience in macOS/Linux.
+    🔭 I'm currently a backend developer(freshman), mainly focused on Java/Go.
+    🌱 I'm currently solidifying my CS foundation, gonna be a long journey.
+    📫 How to reach me
+        Vx: qinggeiwolaixin
+    ⚡ Fun fact
+        Hope to be an open-source developer one day
