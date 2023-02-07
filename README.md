@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    🧳 Having over one years of system-level programming experience in macOS/Linux.
+    🧳 Having over three years of system-level programming experience in macOS/Linux.
     🔭 I'm currently a backend developer(freshman), mainly focused on Java/Go.
     🌱 I'm currently solidifying my CS foundation, gonna be a long journey.
     📫 How to reach me
