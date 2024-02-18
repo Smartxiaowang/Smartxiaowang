@@ -22,3 +22,5 @@ Here are some ideas to get you started:
         Vx: qinggeiwolaixin
     ⚡ Fun fact
         Hope to be an open-source developer one day
+
+![](https://raw.githubusercontent.com/Smartxiaowan/Smartxiaowan/main/assets/github-contribution-grid-snake.svg)
