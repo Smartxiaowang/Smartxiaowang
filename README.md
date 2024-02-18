@@ -23,4 +23,4 @@ Here are some ideas to get you started:
     ⚡ Fun fact
         Hope to be an open-source developer one day
 
-![](https://raw.githubusercontent.com/Smartxiaowan/Smartxiaowan/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Smartxiaowang/Smartxiaowang/main/assets/github-contribution-grid-snake.svg)
